@@ -8,9 +8,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by mertsimsek on 15/03/16.
- */
 public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.PersonViewHolder>{
 
     List<Person> personList;
